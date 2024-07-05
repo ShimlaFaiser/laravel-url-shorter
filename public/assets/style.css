@@ -1,0 +1,23 @@
+#container{
+    padding-top: 100px;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    border-radius: 4px;
+    align-items:center;
+}
+
+
+#urlInput{
+    width: 500px;
+    height: 35px;
+
+}
+
+.table{
+    margin-top: 50px;
+}
+
+.heading{
+    margin-bottom: 50px;
+}
